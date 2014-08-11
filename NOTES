@@ -1,0 +1,9 @@
+
+    * insertWith
+    * QuickCheck
+    * Ability to freeze it
+    * an ST interface
+    * Bind to JudyHS
+    * Split out basic interface.
+    * Type families to pick different underlying representations.
+
